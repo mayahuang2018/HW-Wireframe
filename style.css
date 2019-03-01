@@ -42,7 +42,7 @@ article {
     color:#ebebeb;
 }
 
-#h1, #p {
+.small {
     color:#777;
     background-color:#ebebeb;
     padding:15px;
